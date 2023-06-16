@@ -1,0 +1,11 @@
+(FOR THOSE WHO DONT KNOW HOW TO IMPORT A DATABASE THIS IS FOR YOU)
+
+
+open xxamp
+create database name = crud_db
+table name = client
+
+ID int(11) AUTO_INCREMENT
+FNAME varchar(255)
+MI varchar(255)
+LNAME varchar(255)
